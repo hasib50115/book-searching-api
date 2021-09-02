@@ -1,0 +1,31 @@
+
+body{
+    width: 80%;
+}
+.title{
+    color: skyblue;
+    font-size: 40px;
+}
+.search-area{
+    width: 60%;
+}
+#search-field{
+    width: 500px;
+}
+#result-number{
+    width: 80%;
+}
+#result-number h5, #result-num h5{
+    background-color: skyblue;
+    color: white;
+    font-size: 32px;
+    margin: 30px;
+    padding: 8px;
+    width: 400px;
+    border-radius: 5px;
+    
+}
+/* error message styles  */
+#error-message{
+    display: none;
+}
